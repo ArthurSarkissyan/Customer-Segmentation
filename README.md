@@ -7,6 +7,11 @@
 - The clustering techniques that were tested were KMeans clustering, agglomerative clustering, and DBSCAN.
 - Principal component analysis (PCA) was used to reduce dimensionality for facilitated visualization.
 
+
+<p align="center">
+<img src="cluster.JPG" width="200" alt="cluster">
+</p>
+
 ## Code and Resources Used
 **Python Version:** 3.9 <br> 
 **Packages:** numpy, pandas, seaborn, sklearn, matplotlib, scipy, kneed, collections <br>
