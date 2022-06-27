@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="clusters.png" width="250" alt="clusters">
+<img src="cluster.png" width="250" alt="clusters">
 </p>
 
 ## Code and Resources Used
